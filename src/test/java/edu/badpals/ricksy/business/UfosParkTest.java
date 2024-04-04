@@ -1,5 +1,8 @@
-package edu.badpals.ricksybusiness;
+package edu.badpals.ricksy.business;
 import org.junit.Test;
+
+import edu.badpals.ricksy.business.CreditCard;
+
 import static org.junit.Assert.*;
 
 import java.util.Arrays;
