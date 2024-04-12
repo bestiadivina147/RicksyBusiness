@@ -1,0 +1,6 @@
+{
+    "conventionalCommits.scopes": [
+        "CrystalExpender.java",
+        "GuestDispatcher.java"
+    ]
+}
